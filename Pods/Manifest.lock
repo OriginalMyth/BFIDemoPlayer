@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.2.0)
+  - KIF (3.6.0):
+    - KIF/Core (= 3.6.0)
+  - KIF/Core (3.6.0)
+  - Realm (3.1.0):
+    - Realm/Headers (= 3.1.0)
+  - Realm/Headers (3.1.0)
+  - RealmSwift (3.1.0):
+    - Realm (= 3.1.0)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2.0)
+  - KIF
+  - RealmSwift (~> 3.1)
+  - RxSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  KIF: bd770edd8ce49bc7308501e4871e58a02d137be3
+  Realm: 09513d7c054678d65cd02ce09871f805b0d758ac
+  RealmSwift: e868fee9b10e5490ad94b6b6ecd9027944da1824
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: 13b543e1a6d70b1b7515a421af5f760315aad238
+
+COCOAPODS: 1.4.0
